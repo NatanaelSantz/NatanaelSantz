@@ -3,10 +3,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natanael-santana-santos/)](https://www.linkedin.com/in/natanael-santana-santos/)
 ## O que é este perfil?
-
+Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
 Seja bem-vindo ao perfil  do Github do NatanaelSantz.
 ## Status
 
-[![NatanaelSantz GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelSantz)](https://github.com/NatanaelSantz/github-readme-stats)
+[![NatanaelSantz GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=radical)](https://github.com/NatanaelSantz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz)](https://github.com/NatanaelSantz/github-readme-stats)
+
+
+
+### Ultimos post 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
