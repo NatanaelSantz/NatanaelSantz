@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natanael-santana-santos/)](https://www.linkedin.com/in/natanael-santana-santos/)
 ## O que é este perfil?
 Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
+
+
 Seja bem-vindo ao perfil  do Github do NatanaelSantz.
 ## Status
 
