@@ -4,4 +4,4 @@
 
 Seja bem-vindo ao perfil  do Github do NatanaelSantz.
 
-Segue minha conta do linkedin e manda um Oi para trocarmos experiencias <a hrelf = "linkedin.com/in/natanael-santana-santos">Natanael.santos@dev</a>* :grinning:
+Segue minha conta do linkedin e manda um Oi para trocarmos experiencias <a hrelf = "https://www.linkedin.com/in/natanael-santana-santos">Natanael.santos@dev</a>* :grinning:
