@@ -7,10 +7,12 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
 
 
 Seja bem-vindo ao perfil  do Github do NatanaelSantz.
-[![NatanaelSantz wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NatanaelSantz)](https://github.com/NatanaelSantz/github-readme-stats)
+
 ## Status
 
 [![NatanaelSantz GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=radical)](https://github.com/NatanaelSantz/github-readme-stats)
+
+## Linguagens Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&show_icons=true&theme=radical)](https://github.com/NatanaelSantz/github-readme-stats)
 
