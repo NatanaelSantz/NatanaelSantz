@@ -5,7 +5,6 @@
 ## O que é este perfil?
 
 Seja bem-vindo ao perfil  do Github do NatanaelSantz.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NatanaelSantz&repo=BackEnd_projects)](https://github.com/NatanaelSantz/github-readme-stats)
 ## Status
 
 [![NatanaelSantz GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelSantz)](https://github.com/NatanaelSantz/github-readme-stats)
