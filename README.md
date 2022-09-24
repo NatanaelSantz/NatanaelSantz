@@ -10,12 +10,11 @@ Seja bem-vindo ao perfil  do Github do NatanaelSantz.
 
 ## Status:
 
-[![NatanaelSantz GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=radical)](https://github.com/NatanaelSantz/github-readme-stats)
+[![NatanaelSantz GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=algolia)](https://github.com/NatanaelSantz/github-readme-stats)
 
 ## Linguagens Statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&show_icons=true&theme=radical)](https://github.com/NatanaelSantz/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&show_icons=true&theme=algolia)](https://github.com/NatanaelSantz/github-readme-stats)
 
 ### Ultimos post 
 <!-- BLOG-POST-LIST:START -->
