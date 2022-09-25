@@ -24,5 +24,5 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
     <img align="center" alt="NatanaelSantz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
 ##
-[![Gif Badge](https://discord.com/channels/@me/726116650230874152/1023415642977738823)]
+[![Gif Badge](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/Design%20sem%20nome.gif)]
     
