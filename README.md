@@ -3,6 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natanael-santana-santos/)](https://www.linkedin.com/in/natanael-santana-santos/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTLGztqrjzjGsRrRXKHvwGfKpmnDHBdzRCwMLRhRTjLqQlKmnNsXrfWsPTGJmRJslnCJgq)
+
 ## O que é este perfil?
 Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
 
@@ -22,7 +23,7 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
     <img align="center" alt="NatanaelSantz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="NatanaelSantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="NatanaelSantz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      
+[![Gif Badge](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/Design%20sem%20nome.gif)](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/Design%20sem%20nome.gif)
 
-##
-[![Gif Badge](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/Design%20sem%20nome.gif)]
     
