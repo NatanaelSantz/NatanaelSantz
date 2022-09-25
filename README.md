@@ -14,7 +14,7 @@ Seja bem-vindo ao perfil  do Github do NatanaelSantz.
 
 ## Linguagens Statistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&show_icons=true&theme=algolia&langs_count=10layout=compact)](https://github.com/NatanaelSantz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&show_icons=true&theme=algolia&langs_count=10&layout=compact)](https://github.com/NatanaelSantz/github-readme-stats)
 
 ### Ultimos post 
 <!-- BLOG-POST-LIST:START -->
