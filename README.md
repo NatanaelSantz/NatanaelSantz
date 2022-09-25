@@ -2,7 +2,7 @@
 ### DevOps Trainee - Nodejs | Javascript | Python - Development BackEnd
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natanael-santana-santos/)](https://www.linkedin.com/in/natanael-santana-santos/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://santosnatanael555@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 
 ## O que é este perfil?
 Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
