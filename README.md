@@ -6,16 +6,10 @@
 Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
 
 
-Seja bem-vindo ao perfil  do Github do NatanaelSantz.
+# Seja bem-vindo ao perfil  do Github NatanaelSantz.
 
-## Status:
-
-[![NatanaelSantz GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=algolia)](https://github.com/NatanaelSantz/github-readme-stats)
-
-## Linguagens Statistics:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&langs_count=10&show_icons=true&theme=algolia&layout=compact)](https://github.com/NatanaelSantz/github-readme-stats)
-
-### Ultimos post 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <a href="https://github.com/NatanaelSantz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
