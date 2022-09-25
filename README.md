@@ -23,8 +23,10 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
   <img align="center" alt="NatanaelSantz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NatanaelSantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="NatanaelSantz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="NatanaelSantz-gif" height="30" width="40" 
+ src="https://github.com/NatanaelSantz/NatanaelSantz/blob/main/gif.gif">
 </div>
 
-## ![Gif](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/gif.gif)
+
 
     
