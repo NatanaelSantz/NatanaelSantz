@@ -26,6 +26,7 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
   <img align="right" alt="NatanaelSantz-gif" 
  src="https://github.com/NatanaelSantz/NatanaelSantz/blob/main/gif.gif">
 </div>
+    ![gif](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/.github/workflow/gif.gif)
    ![Snake animation](https://github.com/NatanaelSantz/NatanaelSantz/blob/output/github-contribution-grid-snake.svg)
 
 
