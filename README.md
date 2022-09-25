@@ -24,11 +24,9 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
   <img align="center" alt="NatanaelSantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="NatanaelSantz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="NatanaelSantz-gif" 
- src="https://github.com/NatanaelSantz/NatanaelSantz/blob/main/gif.gif">
+ src="https://cdn.discordapp.com/attachments/726116650230874152/1023415642818367558/Design_sem_nome_1.gif">
 </div>
 
-
-    ![gif](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/.github/workflow/gif.gif)
     
     
    ![Snake animation](https://github.com/NatanaelSantz/NatanaelSantz/blob/output/github-contribution-grid-snake.svg)
