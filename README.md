@@ -6,7 +6,7 @@
 
 ## O que é este perfil?
 Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
-
+![gif](https://user-images.githubusercontent.com/90043621/192396397-010b89a7-ab63-4272-b785-6bdf5f6233ed.gif)
 
 # Seja bem-vindo ao perfil  do Github NatanaelSantz.
 
@@ -27,6 +27,6 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
 
 ![Snake animation](https://github.com/NatanaelSantz/NatanaelSantz/blob/output/github-contribution-grid-snake.svg)
 
-![gif](https://user-images.githubusercontent.com/90043621/192396397-010b89a7-ab63-4272-b785-6bdf5f6233ed.gif)
+
 
     
