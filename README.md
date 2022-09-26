@@ -6,7 +6,10 @@
 
 ## O que é este perfil?
 Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
-![gif](https://user-images.githubusercontent.com/90043621/192396397-010b89a7-ab63-4272-b785-6bdf5f6233ed.gif)
+<div align="left">
+ <img height="180em" src="https://user-images.githubusercontent.com/90043621/192396397-010b89a7-ab63-4272-b785-6bdf5f6233ed.gif"/>
+</div>
+
 
 # Seja bem-vindo ao perfil  do Github NatanaelSantz.
 
