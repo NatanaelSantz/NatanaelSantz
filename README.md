@@ -9,7 +9,7 @@ Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScrip
 
 
 
-# Seja bem-vindo ao perfil  do Github NatanaelSantz. <div align="right">
+# Seja bem-vindo ao perfil  do Github NatanaelSantz. <div align="left">
  <img height="180em" src="https://user-images.githubusercontent.com/90043621/192396397-010b89a7-ab63-4272-b785-6bdf5f6233ed.gif"/>
 </div>
 
