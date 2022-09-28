@@ -4,13 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natanael-santana-santos/)](https://www.linkedin.com/in/natanael-santana-santos/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTLGztqrjzjGsRrRXKHvwGfKpmnDHBdzRCwMLRhRTjLqQlKmnNsXrfWsPTGJmRJslnCJgq)
 
-## O que é este perfil?
-Perfil com interesse de dominar as tecnologias  » Nodejs » Python » JavaScript » Flutter » CSS
+## Hello world, forcing an upgrade sudo apt-get && sudo apt-get upgrade in my life
+Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutter » CSS
 
 
-
-# Seja bem-vindo ao perfil  do Github NatanaelSantz.
-
+# See my story 
 <div align="center">
   <a href="https://github.com/NatanaelSantz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=algolia&include_axll_commits=true&count_private=true"/>
