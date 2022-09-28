@@ -8,7 +8,7 @@
 Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutter » CSS
 
 
-![gif](https://user-images.githubusercontent.com/90043621/192807557-e2260e0e-2b3a-42b9-80c3-b4ccda81c744.gif&width=50%)
+![gif](https://user-images.githubusercontent.com/90043621/192807557-e2260e0e-2b3a-42b9-80c3-b4ccda81c744.gif&){width=50%}
 
 # See my story  :blue_book:
 <div align="center">
