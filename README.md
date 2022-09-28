@@ -24,7 +24,6 @@ Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutt
   <img align="center" alt="NatanaelSantz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="NatanaelSantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="NatanaelSantz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" src="https://user-images.githubusercontent.com/90043621/192807557-e2260e0e-2b3a-42b9-80c3-b4ccda81c744.gif" alt="drawing" width="200"/>
 </div>
 
 
