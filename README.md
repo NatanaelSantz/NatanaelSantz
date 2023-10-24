@@ -14,11 +14,13 @@ Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutt
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/NatanaelSantz/NatanaelSantz">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanaelSantz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&custom_title=My_languages&hide=css,html&" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanaelSantz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&custom_title=My_languages&hide=css,html&" />
 </a>
 
 
-<div style="display: inline_block"><br>
+ <br></br>
+
+<div style=><br>
   <img align="center" alt="NatanaelSantz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NatanaelSantz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NatanaelSantz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
