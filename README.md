@@ -11,9 +11,15 @@ Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutt
 
 # See my story  :blue_book:
   <a href="https://github.com/NatanaelSantz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=algolia&include_axll_commits=true&count_private=true"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&custom_title=My_languages&hide=css,shell,html&layout=compact&langs_count=15&theme=algolia"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img  src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true" />
+</picture>
+    
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&custom_title=My_languages&hide=css,shell,html&layout=compact&langs_count=15&theme=algolia"/>
   <img align="center" src="https://user-images.githubusercontent.com/90043621/192807557-e2260e0e-2b3a-42b9-80c3-b4ccda81c744.gif" alt="drawing" width="200"/>
 </div>
 <div style="display: inline_block"><br>
