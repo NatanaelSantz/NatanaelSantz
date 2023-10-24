@@ -2,7 +2,7 @@
 ### DevOps Trainee - Nodejs | Javascript | Python - Development BackEnd
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natanael-santana-santos/)](https://www.linkedin.com/in/natanael-santana-santos/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTLGztqrjzjGsRrRXKHvwGfKpmnDHBdzRCwMLRhRTjLqQlKmnNsXrfWsPTGJmRJslnCJgq)
+
 
 ## Hello world, forcing an upgrade sudo apt-get && sudo apt-get upgrade in_my_life
 Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutter » CSS
