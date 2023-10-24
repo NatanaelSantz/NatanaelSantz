@@ -19,7 +19,7 @@ Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutt
   <img  src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true" />
 </picture>
     
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&custom_title=My_languages&hide=css,shell,html&layout=compact&langs_count=15&theme=algolia"/>
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&custom_title=My_languages&hide=css,shell,html&layout=compact&langs_count=15&theme=dark"/>
   <img align="center" src="https://user-images.githubusercontent.com/90043621/192807557-e2260e0e-2b3a-42b9-80c3-b4ccda81c744.gif" alt="drawing" width="200"/>
 </div>
 <div style="display: inline_block"><br>
