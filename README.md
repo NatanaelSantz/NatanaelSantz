@@ -11,7 +11,7 @@ Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutt
 
 # See my story  :blue_book:
 <a href="https://github.com/NatanaelSantz/NatanaelSantz">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&card_width=320&theme=dark" />
 </a>
 <a href="https://github.com/NatanaelSantz/NatanaelSantz">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanaelSantz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&custom_title=My_languages&hide=css,html&" />
