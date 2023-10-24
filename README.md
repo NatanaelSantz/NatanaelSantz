@@ -10,18 +10,14 @@ Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutt
 
 
 # See my story  :blue_book:
-  <a href="https://github.com/NatanaelSantz">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img  src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true" />
-</picture>
-    
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelSantz&custom_title=My_languages&hide=css,shell,html&layout=compact&langs_count=15&theme=dark"/>
-  <img align="center" src="https://user-images.githubusercontent.com/90043621/192807557-e2260e0e-2b3a-42b9-80c3-b4ccda81c744.gif" alt="drawing" width="200"/>
-</div>
+<a href="https://github.com/NatanaelSantz/NatanaelSantz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanaelSantz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&custom_title=My_languages&hide=css,html&" />
+</a>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="NatanaelSantz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NatanaelSantz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
