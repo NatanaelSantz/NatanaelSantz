@@ -1,38 +1,44 @@
-![Bem vindo ao NatanaelSantz!](https://github.com/NatanaelSantz/NatanaelSantz/blob/main/hendler.jpg)
-### DevOps Trainee - Nodejs | Javascript | Python - Development BackEnd
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/natanael-santana-santos/)](https://www.linkedin.com/in/natanael-santana-santos/)
+<img src="assets/banner.svg" alt="Natanael Santos: Python, automação e back-end, criador do Aprova. O boneco em pixel art dele acena e diz oi." width="100%">
 
+<br>
 
-## Hello world, forcing an upgrade sudo apt-get && sudo apt-get upgrade in_my_life
-Interested in mastering technologies  » Nodejs » Python » JavaScript » Flutter » CSS
+<a href="https://natanaelsantz.github.io/aprova/"><img src="assets/botao-aprova.svg" alt="Conheça o Aprova" height="44"></a>&nbsp;
+<a href="https://github.com/NatanaelSantz/aprova"><img src="assets/botao-codigo.svg" alt="Código do Aprova no GitHub" height="44"></a>&nbsp;
+<a href="https://www.linkedin.com/in/natanael-santana-santos/"><img src="assets/botao-linkedin.svg" alt="LinkedIn de Natanael Santos" height="44"></a>
 
-
-
-# See my story  :blue_book:
-<a href="https://github.com/NatanaelSantz/NatanaelSantz">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=NatanaelSantz&show_icons=true&card_width=320&theme=dark" />
-</a>
-<a href="https://github.com/NatanaelSantz/NatanaelSantz">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NatanaelSantz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark&custom_title=My_languages&hide=css,html&" />
-</a>
-
-
- <br></br>
-
-<div style=><br>
-  <img align="center" alt="NatanaelSantz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="NatanaelSantz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NatanaelSantz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NatanaelSantz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="NatanaelSantz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NatanaelSantz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="NatanaelSantz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30"/>
-                 
 </div>
 
+<br>
 
+### Sobre mim
 
+- Escrevo **Python** no dia a dia: automação, back-end e apps que resolvem problemas de verdade.
+- Criei o **[Aprova](https://natanaelsantz.github.io/aprova/)**, app gratuito de estudo para concursos públicos, do zero: interface, banco de dados, servidor, testes e publicação automática no Windows e no Android.
+- Estudando agora: **Node.js**, **TypeScript**, **Flutter**, nuvem e DevOps.
 
-    
+<br>
+
+<a href="https://natanaelsantz.github.io/aprova/"><img src="assets/aprova.svg" alt="Projeto em destaque: Aprova, app gratuito de estudo para concursos públicos, com provas reais com gabarito, revisão espaçada e grupos de estudo" width="100%"></a>
+
+<br><br>
+
+<img src="assets/ferramentas.svg" alt="Ferramentas: Python, JavaScript, TypeScript, C#, Node.js, React, Flutter, HTML, CSS, SQLite, Supabase, PostgreSQL, Git, GitHub Actions, Linux e VS Code" width="100%">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/NatanaelSantz/NatanaelSantz/output/estatisticas.svg" alt="Estatísticas do GitHub: contribuições, repositórios, estrelas, seguidores e linguagens mais usadas" width="100%">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NatanaelSantz/NatanaelSantz/output/github-snake-dark.svg">
+  <img alt="A cobrinha passeando pelas contribuições do último ano" src="https://raw.githubusercontent.com/NatanaelSantz/NatanaelSantz/output/github-snake.svg" width="100%">
+</picture>
+
+<div align="center">
+  <br>
+  <i>“O que define um programador não é a linguagem que domina, e sim sua lógica.”</i>
+  <br><br>
+</div>
